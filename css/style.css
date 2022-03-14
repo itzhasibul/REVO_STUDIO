@@ -284,6 +284,7 @@ p {
     cursor: pointer;
     margin-top: 20px;
     margin-right: 15px;
+    outline: none;
     transition: all linear 0.4s;
     -webkit-transition: all linear 0.4s;
     -moz-transition: all linear 0.4s;
